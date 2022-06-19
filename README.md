@@ -6,7 +6,7 @@
 Πετρίδης Listing 6.1 Ερωτήσεις Jupyter.pdf<br />
 Πετρίδης Listing 6.20 Ερωτήσεις Jupyter.pdf<br />
 
-Τα αρχεία pdf είναι οι 2 παρουσιάσεις σε pdf των listing 6.1 και 6.20 και οι ερωτήσεις από τα listings από jupyter σε pdf.<br />
+Τα αρχεία pdf είναι οι 2 παρουσιάσεις σε pdf των listing 6.1 και 6.20 και οι ερωτήσεις από τα listings από jupyter σε pdf.<br /><br />
 Το Listing 6.1 είναι harmonic oscilator wave functions.<br />
 Στο listing 6.1 πρόσθεσα επίσης την σύγκριση των wave functions με τα πολυόνυμα Hermite, ώστε να φανεί<br />
 αν η μέθοδος της Runge Kutta 4, λειτουργεί ικανοποιητικά. Η μέθοδος φαίνεται να δουλεύει καλά και δίνει ίδια αποτελέσματα για μικρό βήμα. <br />
