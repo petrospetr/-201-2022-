@@ -5,7 +5,10 @@
 Πετρίδης Listing 6.20 Παρουσίαση.pdf<br />
 Πετρίδης Listing 6.1 Ερωτήσεις Jupyter.pdf<br />
 Πετρίδης Listing 6.20 Ερωτήσεις Jupyter.pdf<br />
+Listing 6.1.py
+Listing 6.20.py
 
+Τα Listing 6.1.py και Listing 6.20.py είναι οι κώδικες που έχει το βιβλίο σε περίπτωση που θέλετε να τους δείτε, ώστε να μην κάνετε copy-paste από εκεί. <br />
 Τα αρχεία pdf είναι οι 2 παρουσιάσεις σε pdf των listing 6.1 και 6.20 και οι ερωτήσεις από τα listings από jupyter σε pdf.<br /><br />
 Το Listing 6.1 είναι harmonic oscilator wave functions.<br />
 Στο listing 6.1 πρόσθεσα επίσης την σύγκριση των wave functions με τα πολυόνυμα Hermite, ώστε να φανεί<br />
